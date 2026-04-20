@@ -1,6 +1,6 @@
 <!-- HERO SECTION -->
 <div align="center" style="width:100%;">
-<img src="https://drive.google.com/uc?export=view&1ImmyQuqJuSJ-gllNAprg3IWxPzJB5DMY" 
+<img src="https://drive.google.com/file/d/1ImmyQuqJuSJ-gllNAprg3IWxPzJB5DMY/view?usp=sharing" 
 style="width:100%; max-width:1100px; border-radius:18px; box-shadow:0 10px 25px rgba(0,0,0,0.4);" alt="Aman Raj Banner" />
 </div>
 
